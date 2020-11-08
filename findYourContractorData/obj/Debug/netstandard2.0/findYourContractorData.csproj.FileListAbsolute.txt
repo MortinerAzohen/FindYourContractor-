@@ -1,0 +1,5 @@
+C:\Users\Mortiner\source\repos\FindYourContractor\findYourContractorData\bin\Debug\netstandard2.0\findYourContractorData.deps.json
+C:\Users\Mortiner\source\repos\FindYourContractor\findYourContractorData\bin\Debug\netstandard2.0\findYourContractorData.dll
+C:\Users\Mortiner\source\repos\FindYourContractor\findYourContractorData\obj\Debug\netstandard2.0\findYourContractorData.csprojAssemblyReference.cache
+C:\Users\Mortiner\source\repos\FindYourContractor\findYourContractorData\obj\Debug\netstandard2.0\findYourContractorData.AssemblyInfoInputs.cache
+C:\Users\Mortiner\source\repos\FindYourContractor\findYourContractorData\obj\Debug\netstandard2.0\findYourContractorData.AssemblyInfo.cs
